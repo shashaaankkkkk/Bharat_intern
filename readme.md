@@ -25,8 +25,8 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 
 ### Flask Application - Wine Quality Prediction
 To run the Flask application for house price prediction:
-1. Navigate to the Task-3 folder.
-2. Run the Flask application using the command:
+1. Navigate to the Task-2 folder.
+3. Run the Flask application using the command:
    ```bash
    flask --app app run
 
