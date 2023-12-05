@@ -22,6 +22,15 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
   - Iris flower datasets for model training.
   - Jupyter Notebooks and Python scripts for data exploration, preprocessing, and species classification.
 
+
+### Flask Application - Wine Quality Prediction
+To run the Flask application for house price prediction:
+1. Navigate to the Task-3 folder.
+2. Run the Flask application using the command:
+   ```bash
+   flask --app app run
+
+
 ## Usage
 Feel free to explore each project folder for detailed instructions, datasets, and code implementation specific to each machine learning task.
 
